@@ -23,7 +23,8 @@ Compilation of Rust Resources and Projects from simple to advanced
 
 ### 🔹 Advanced  
 - [Async Domain Scanner](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/async_domain_scanner) 🌍  
-- [Parallel Domain Scanner](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/parallel_domain_scanner) ⚡  
+- [Parallel Domain Scanner](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/parallel_domain_scanner) ⚡ 
+- [Rocket SSE Chat]  ()  ✒️
 
 ## 🎯 Contribution  
 
